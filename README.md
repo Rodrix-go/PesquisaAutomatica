@@ -53,4 +53,6 @@ Abaixo está o exemplo de como os sites são adicionados ao dicionário no arqui
 ## Exemplo de utilização
 Esse script foi criado para facilitar a vida na hora de pesquisar vários itens de eletrônica e montar uma lista para orçamento. Antes, eu tinha que ficar pesquisando manualmente o mesmo componente em vários sites até achar o melhor preço, o que era bem trabalhoso. Agora, com o script, ele faz essa busca automaticamente em diversos sites, como você pode ver no vídeo abaixo.
 
-<iframe width="560" height="315" src="https://youtu.be/RUkYuMXMgZQ" frameborder="0" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/RUkYuMXMgZQ/hqdefault.jpg)](https://www.youtube.com/watch?v=RUkYuMXMgZQ)
+
+
